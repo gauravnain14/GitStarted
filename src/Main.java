@@ -31,7 +31,7 @@ public class Main {
                 "you see two caves. In one cave, the dragon is friendly\n"+
                 "and will share his treasure with you. The other dragon\n"+
                 "is greedy and hungry and will eat you on sight.\n"+
-                "Which cave will you go into? (1 or 2))\n");
+                "Which cave will you go into? (1 or 2))");
         if(Integer.parseInt(scanner.next()) == 1){
             System.out.println("You approach the cave...\n"+
                     "It is dark and spooky...\n"+
